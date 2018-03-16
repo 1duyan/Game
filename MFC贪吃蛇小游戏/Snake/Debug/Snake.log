@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  ViewTree.cpp
+  SnakeView.cpp
+  SnakeDoc.cpp
+  Snake.cpp
+  PropertiesWnd.cpp
+  OutputWnd.cpp
+  MainFrm.cpp
+  FileView.cpp
+  ClassView.cpp
+  正在生成代码...
+  Snake.vcxproj -> D:\Snake\Debug\Snake.exe
+  Snake.vcxproj -> D:\Snake\Debug\Snake.pdb (Partial PDB)
